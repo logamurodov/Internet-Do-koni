@@ -1,4 +1,4 @@
-package uz.pdp.category.entity;
+package uz.pdp.internetdokon.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
